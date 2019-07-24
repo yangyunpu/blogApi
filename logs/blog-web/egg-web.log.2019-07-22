@@ -1,0 +1,30 @@
+2019-07-22 14:31:43,354 INFO 21881 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-22 14:31:43,381 INFO 21881 [egg-multipart] stream mode enable
+2019-07-22 14:31:43,448 INFO 21881 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-22 14:31:43,451 INFO 21881 [egg-security] use csrf middleware
+2019-07-22 14:31:43,453 INFO 21881 [egg-security] use methodnoallow middleware
+2019-07-22 14:31:43,453 INFO 21881 [egg-security] use noopen middleware
+2019-07-22 14:31:43,454 INFO 21881 [egg-security] use nosniff middleware
+2019-07-22 14:31:43,455 INFO 21881 [egg-security] use xssProtection middleware
+2019-07-22 14:31:43,456 INFO 21881 [egg-security] use xframe middleware
+2019-07-22 14:31:43,456 INFO 21881 [egg-security] use dta middleware
+2019-07-22 14:31:43,456 INFO 21881 [egg-security] compose 7 middlewares into one security middleware
+2019-07-22 14:31:43,466 INFO 21881 [egg:core] dump config after load, 5ms
+2019-07-22 14:31:43,480 INFO 21881 [egg-watcher:application] watcher start success
+2019-07-22 14:31:43,486 INFO 21881 [egg:core] dump config after ready, 4ms
+2019-07-22 15:47:54,433 WARN 21881 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-22 20:32:06,046 WARN 21881 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-22 21:50:34,490 WARN 21881 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-23 00:37:51,259 WARN 21881 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-23 02:38:27,702 WARN 21881 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-07-23 02:38:27,705 WARN 21881 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-23 04:39:23,225 WARN 21881 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-23 06:39:58,659 WARN 21881 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-07-23 06:39:58,659 WARN 21881 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-23 08:40:54,072 WARN 21881 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-23 09:45:09,357 WARN 21881 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-23 12:38:46,500 WARN 21881 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-23 13:37:12,413 WARN 21881 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-23 14:57:26,611 INFO 21881 [egg-logrotator] clean all log before 31 days
+2019-07-23 14:57:27,379 INFO 21881 [egg-logrotator] broadcast log-reload
+2019-07-23 14:57:27,380 INFO 21881 [egg-logrotator] rotate files success by DayRotator, files ["/Users/mac/Desktop/blog-web/logs/blog-web/common-error.log -> /Users/mac/Desktop/blog-web/logs/blog-web/common-error.log.2019-07-22","/Users/mac/Desktop/blog-web/logs/blog-web/blog-web-web.log -> /Users/mac/Desktop/blog-web/logs/blog-web/blog-web-web.log.2019-07-22","/Users/mac/Desktop/blog-web/logs/blog-web/egg-web.log -> /Users/mac/Desktop/blog-web/logs/blog-web/egg-web.log.2019-07-22","/Users/mac/Desktop/blog-web/logs/blog-web/egg-schedule.log -> /Users/mac/Desktop/blog-web/logs/blog-web/egg-schedule.log.2019-07-22","/Users/mac/Desktop/blog-web/logs/blog-web/egg-agent.log -> /Users/mac/Desktop/blog-web/logs/blog-web/egg-agent.log.2019-07-22"]

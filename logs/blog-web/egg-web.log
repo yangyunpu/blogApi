@@ -1,0 +1,298 @@
+2019-07-23 14:57:27,384 INFO 21881 [egg-logrotator] app logger reload: got log-reload message
+2019-07-23 15:02:07,790 INFO 31630 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:02:07,824 INFO 31630 [egg-multipart] stream mode enable
+2019-07-23 15:02:07,923 INFO 31630 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:02:07,927 INFO 31630 [egg-security] use csrf middleware
+2019-07-23 15:02:07,929 INFO 31630 [egg-security] use methodnoallow middleware
+2019-07-23 15:02:07,930 INFO 31630 [egg-security] use noopen middleware
+2019-07-23 15:02:07,931 INFO 31630 [egg-security] use nosniff middleware
+2019-07-23 15:02:07,932 INFO 31630 [egg-security] use xssProtection middleware
+2019-07-23 15:02:07,934 INFO 31630 [egg-security] use xframe middleware
+2019-07-23 15:02:07,935 INFO 31630 [egg-security] use dta middleware
+2019-07-23 15:02:07,935 INFO 31630 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:02:07,949 INFO 31630 [egg:core] dump config after load, 7ms
+2019-07-23 15:02:07,969 INFO 31630 [egg-watcher:application] watcher start success
+2019-07-23 15:02:07,976 INFO 31630 [egg:core] dump config after ready, 4ms
+2019-07-23 15:20:53,436 INFO 31861 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:20:53,469 INFO 31861 [egg-multipart] stream mode enable
+2019-07-23 15:20:53,538 INFO 31861 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:20:53,541 INFO 31861 [egg-security] use csrf middleware
+2019-07-23 15:20:53,542 INFO 31861 [egg-security] use methodnoallow middleware
+2019-07-23 15:20:53,543 INFO 31861 [egg-security] use noopen middleware
+2019-07-23 15:20:53,544 INFO 31861 [egg-security] use nosniff middleware
+2019-07-23 15:20:53,544 INFO 31861 [egg-security] use xssProtection middleware
+2019-07-23 15:20:53,545 INFO 31861 [egg-security] use xframe middleware
+2019-07-23 15:20:53,545 INFO 31861 [egg-security] use dta middleware
+2019-07-23 15:20:53,546 INFO 31861 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:20:53,556 INFO 31861 [egg:core] dump config after load, 5ms
+2019-07-23 15:20:53,570 INFO 31861 [egg-watcher:application] watcher start success
+2019-07-23 15:20:53,576 INFO 31861 [egg:core] dump config after ready, 4ms
+2019-07-23 15:20:54,588 INFO 31863 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:20:54,622 INFO 31863 [egg-multipart] stream mode enable
+2019-07-23 15:20:54,674 INFO 31863 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:20:54,677 INFO 31863 [egg-security] use csrf middleware
+2019-07-23 15:20:54,679 INFO 31863 [egg-security] use methodnoallow middleware
+2019-07-23 15:20:54,680 INFO 31863 [egg-security] use noopen middleware
+2019-07-23 15:20:54,681 INFO 31863 [egg-security] use nosniff middleware
+2019-07-23 15:20:54,681 INFO 31863 [egg-security] use xssProtection middleware
+2019-07-23 15:20:54,682 INFO 31863 [egg-security] use xframe middleware
+2019-07-23 15:20:54,682 INFO 31863 [egg-security] use dta middleware
+2019-07-23 15:20:54,682 INFO 31863 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:20:54,724 INFO 31863 [egg:core] dump config after load, 5ms
+2019-07-23 15:20:54,739 INFO 31863 [egg-watcher:application] watcher start success
+2019-07-23 15:20:54,746 INFO 31863 [egg:core] dump config after ready, 4ms
+2019-07-23 15:26:33,030 INFO 31932 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:26:33,077 INFO 31932 [egg-multipart] stream mode enable
+2019-07-23 15:26:33,078 INFO 31932 [egg-mysql] connecting za_dev_radiost@rm-bp1utr02m6tp303p9.mysql.rds.aliyuncs.com:3306/operation_radio_station_00
+2019-07-23 15:26:33,246 INFO 31932 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:26:33,249 INFO 31932 [egg-security] use csrf middleware
+2019-07-23 15:26:33,252 INFO 31932 [egg-security] use methodnoallow middleware
+2019-07-23 15:26:33,252 INFO 31932 [egg-security] use noopen middleware
+2019-07-23 15:26:33,253 INFO 31932 [egg-security] use nosniff middleware
+2019-07-23 15:26:33,254 INFO 31932 [egg-security] use xssProtection middleware
+2019-07-23 15:26:33,255 INFO 31932 [egg-security] use xframe middleware
+2019-07-23 15:26:33,256 INFO 31932 [egg-security] use dta middleware
+2019-07-23 15:26:33,256 INFO 31932 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:26:33,268 INFO 31932 [egg:core] dump config after load, 7ms
+2019-07-23 15:26:33,288 INFO 31932 [egg-watcher:application] watcher start success
+2019-07-23 15:26:33,333 INFO 31932 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jul 23 2019 15:26:33 GMT+0800 (CST)
+2019-07-23 15:26:33,344 INFO 31932 [egg:core] dump config after ready, 8ms
+2019-07-23 15:26:53,731 INFO 31934 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:26:53,762 INFO 31934 [egg-multipart] stream mode enable
+2019-07-23 15:26:53,762 INFO 31934 [egg-mysql] connecting za_dev_radiost@rm-bp1utr02m6tp303p9.mysql.rds.aliyuncs.com:3306/operation_radio_station_00
+2019-07-23 15:26:53,865 INFO 31934 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:26:53,869 INFO 31934 [egg-security] use csrf middleware
+2019-07-23 15:26:53,873 INFO 31934 [egg-security] use methodnoallow middleware
+2019-07-23 15:26:53,873 INFO 31934 [egg-security] use noopen middleware
+2019-07-23 15:26:53,874 INFO 31934 [egg-security] use nosniff middleware
+2019-07-23 15:26:53,874 INFO 31934 [egg-security] use xssProtection middleware
+2019-07-23 15:26:53,875 INFO 31934 [egg-security] use xframe middleware
+2019-07-23 15:26:53,875 INFO 31934 [egg-security] use dta middleware
+2019-07-23 15:26:53,875 INFO 31934 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:26:53,885 INFO 31934 [egg:core] dump config after load, 6ms
+2019-07-23 15:26:53,904 INFO 31934 [egg-watcher:application] watcher start success
+2019-07-23 15:26:53,935 INFO 31934 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jul 23 2019 15:26:53 GMT+0800 (CST)
+2019-07-23 15:26:53,944 INFO 31934 [egg:core] dump config after ready, 6ms
+2019-07-23 15:26:55,001 INFO 31936 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:26:55,040 INFO 31936 [egg-multipart] stream mode enable
+2019-07-23 15:26:55,041 INFO 31936 [egg-mysql] connecting za_dev_radiost@rm-bp1utr02m6tp303p9.mysql.rds.aliyuncs.com:3306/operation_radio_station_00
+2019-07-23 15:26:55,146 INFO 31936 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:26:55,149 INFO 31936 [egg-security] use csrf middleware
+2019-07-23 15:26:55,154 INFO 31936 [egg-security] use methodnoallow middleware
+2019-07-23 15:26:55,155 INFO 31936 [egg-security] use noopen middleware
+2019-07-23 15:26:55,157 INFO 31936 [egg-security] use nosniff middleware
+2019-07-23 15:26:55,157 INFO 31936 [egg-security] use xssProtection middleware
+2019-07-23 15:26:55,158 INFO 31936 [egg-security] use xframe middleware
+2019-07-23 15:26:55,158 INFO 31936 [egg-security] use dta middleware
+2019-07-23 15:26:55,158 INFO 31936 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:26:55,172 INFO 31936 [egg:core] dump config after load, 9ms
+2019-07-23 15:26:55,198 INFO 31936 [egg-watcher:application] watcher start success
+2019-07-23 15:26:55,233 INFO 31936 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jul 23 2019 15:26:55 GMT+0800 (CST)
+2019-07-23 15:26:55,242 INFO 31936 [egg:core] dump config after ready, 7ms
+2019-07-23 15:27:59,217 INFO 31944 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:27:59,252 INFO 31944 [egg-multipart] stream mode enable
+2019-07-23 15:27:59,252 INFO 31944 [egg-mysql] connecting root@127.0.0.1:3306/operation_policy_clamp_00
+2019-07-23 15:27:59,439 INFO 31944 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:27:59,442 INFO 31944 [egg-security] use csrf middleware
+2019-07-23 15:27:59,443 INFO 31944 [egg-security] use methodnoallow middleware
+2019-07-23 15:27:59,444 INFO 31944 [egg-security] use noopen middleware
+2019-07-23 15:27:59,445 INFO 31944 [egg-security] use nosniff middleware
+2019-07-23 15:27:59,446 INFO 31944 [egg-security] use xssProtection middleware
+2019-07-23 15:27:59,446 INFO 31944 [egg-security] use xframe middleware
+2019-07-23 15:27:59,447 INFO 31944 [egg-security] use dta middleware
+2019-07-23 15:27:59,447 INFO 31944 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:27:59,457 INFO 31944 [egg:core] dump config after load, 5ms
+2019-07-23 15:27:59,476 INFO 31944 [egg-watcher:application] watcher start success
+2019-07-23 15:27:59,490 INFO 31944 [egg:core] dump config after ready, 6ms
+2019-07-23 15:28:03,625 INFO 31953 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:28:03,657 INFO 31953 [egg-multipart] stream mode enable
+2019-07-23 15:28:03,658 INFO 31953 [egg-mysql] connecting root@127.0.0.1:3306/operation_policy_clamp_00
+2019-07-23 15:28:03,748 INFO 31953 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:28:03,750 INFO 31953 [egg-security] use csrf middleware
+2019-07-23 15:28:03,751 INFO 31953 [egg-security] use methodnoallow middleware
+2019-07-23 15:28:03,752 INFO 31953 [egg-security] use noopen middleware
+2019-07-23 15:28:03,752 INFO 31953 [egg-security] use nosniff middleware
+2019-07-23 15:28:03,753 INFO 31953 [egg-security] use xssProtection middleware
+2019-07-23 15:28:03,753 INFO 31953 [egg-security] use xframe middleware
+2019-07-23 15:28:03,753 INFO 31953 [egg-security] use dta middleware
+2019-07-23 15:28:03,753 INFO 31953 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:28:03,763 INFO 31953 [egg:core] dump config after load, 5ms
+2019-07-23 15:28:03,781 INFO 31953 [egg-watcher:application] watcher start success
+2019-07-23 15:28:03,796 INFO 31953 [egg:core] dump config after ready, 6ms
+2019-07-23 15:28:08,156 INFO 31956 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:28:08,184 INFO 31956 [egg-multipart] stream mode enable
+2019-07-23 15:28:08,185 INFO 31956 [egg-mysql] connecting root@127.0.0.1:3306/operation_policy_clamp_00
+2019-07-23 15:28:08,271 INFO 31956 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:28:08,274 INFO 31956 [egg-security] use csrf middleware
+2019-07-23 15:28:08,275 INFO 31956 [egg-security] use methodnoallow middleware
+2019-07-23 15:28:08,275 INFO 31956 [egg-security] use noopen middleware
+2019-07-23 15:28:08,276 INFO 31956 [egg-security] use nosniff middleware
+2019-07-23 15:28:08,276 INFO 31956 [egg-security] use xssProtection middleware
+2019-07-23 15:28:08,276 INFO 31956 [egg-security] use xframe middleware
+2019-07-23 15:28:08,277 INFO 31956 [egg-security] use dta middleware
+2019-07-23 15:28:08,277 INFO 31956 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:28:08,285 INFO 31956 [egg:core] dump config after load, 5ms
+2019-07-23 15:28:08,309 INFO 31956 [egg-watcher:application] watcher start success
+2019-07-23 15:28:08,322 INFO 31956 [egg:core] dump config after ready, 6ms
+2019-07-23 15:28:09,369 INFO 31958 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:28:09,398 INFO 31958 [egg-multipart] stream mode enable
+2019-07-23 15:28:09,398 INFO 31958 [egg-mysql] connecting root@127.0.0.1:3306/operation_policy_clamp_00
+2019-07-23 15:28:09,490 INFO 31958 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:28:09,492 INFO 31958 [egg-security] use csrf middleware
+2019-07-23 15:28:09,493 INFO 31958 [egg-security] use methodnoallow middleware
+2019-07-23 15:28:09,493 INFO 31958 [egg-security] use noopen middleware
+2019-07-23 15:28:09,494 INFO 31958 [egg-security] use nosniff middleware
+2019-07-23 15:28:09,494 INFO 31958 [egg-security] use xssProtection middleware
+2019-07-23 15:28:09,495 INFO 31958 [egg-security] use xframe middleware
+2019-07-23 15:28:09,495 INFO 31958 [egg-security] use dta middleware
+2019-07-23 15:28:09,495 INFO 31958 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:28:09,505 INFO 31958 [egg:core] dump config after load, 6ms
+2019-07-23 15:28:09,529 INFO 31958 [egg-watcher:application] watcher start success
+2019-07-23 15:28:09,540 INFO 31958 [egg:core] dump config after ready, 5ms
+2019-07-23 15:28:18,263 INFO 31960 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:28:18,301 INFO 31960 [egg-multipart] stream mode enable
+2019-07-23 15:28:18,302 INFO 31960 [egg-mysql] connecting root@127.0.0.1:3306/operation_policy_clamp_00
+2019-07-23 15:28:18,415 INFO 31960 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:28:18,418 INFO 31960 [egg-security] use csrf middleware
+2019-07-23 15:28:18,420 INFO 31960 [egg-security] use methodnoallow middleware
+2019-07-23 15:28:18,420 INFO 31960 [egg-security] use noopen middleware
+2019-07-23 15:28:18,421 INFO 31960 [egg-security] use nosniff middleware
+2019-07-23 15:28:18,421 INFO 31960 [egg-security] use xssProtection middleware
+2019-07-23 15:28:18,422 INFO 31960 [egg-security] use xframe middleware
+2019-07-23 15:28:18,422 INFO 31960 [egg-security] use dta middleware
+2019-07-23 15:28:18,422 INFO 31960 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:28:18,444 INFO 31960 [egg:core] dump config after load, 13ms
+2019-07-23 15:28:18,475 INFO 31960 [egg-watcher:application] watcher start success
+2019-07-23 15:28:18,490 INFO 31960 [egg:core] dump config after ready, 7ms
+2019-07-23 15:28:34,757 INFO 31961 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:28:34,794 INFO 31961 [egg-multipart] stream mode enable
+2019-07-23 15:28:34,795 INFO 31961 [egg-mysql] connecting root@127.0.0.1:3306/operation_policy_clamp_00
+2019-07-23 15:28:34,912 INFO 31961 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:28:34,915 INFO 31961 [egg-security] use csrf middleware
+2019-07-23 15:28:34,916 INFO 31961 [egg-security] use methodnoallow middleware
+2019-07-23 15:28:34,917 INFO 31961 [egg-security] use noopen middleware
+2019-07-23 15:28:34,918 INFO 31961 [egg-security] use nosniff middleware
+2019-07-23 15:28:34,919 INFO 31961 [egg-security] use xssProtection middleware
+2019-07-23 15:28:34,919 INFO 31961 [egg-security] use xframe middleware
+2019-07-23 15:28:34,920 INFO 31961 [egg-security] use dta middleware
+2019-07-23 15:28:34,920 INFO 31961 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:28:34,931 INFO 31961 [egg:core] dump config after load, 7ms
+2019-07-23 15:28:34,956 INFO 31961 [egg-watcher:application] watcher start success
+2019-07-23 15:28:34,970 INFO 31961 [egg:core] dump config after ready, 6ms
+2019-07-23 15:28:36,221 INFO 31963 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:28:36,251 INFO 31963 [egg-multipart] stream mode enable
+2019-07-23 15:28:36,251 INFO 31963 [egg-mysql] connecting root@127.0.0.1:3306/operation_policy_clamp_00
+2019-07-23 15:28:36,331 INFO 31963 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:28:36,334 INFO 31963 [egg-security] use csrf middleware
+2019-07-23 15:28:36,334 INFO 31963 [egg-security] use methodnoallow middleware
+2019-07-23 15:28:36,335 INFO 31963 [egg-security] use noopen middleware
+2019-07-23 15:28:36,335 INFO 31963 [egg-security] use nosniff middleware
+2019-07-23 15:28:36,336 INFO 31963 [egg-security] use xssProtection middleware
+2019-07-23 15:28:36,336 INFO 31963 [egg-security] use xframe middleware
+2019-07-23 15:28:36,336 INFO 31963 [egg-security] use dta middleware
+2019-07-23 15:28:36,336 INFO 31963 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:28:36,348 INFO 31963 [egg:core] dump config after load, 8ms
+2019-07-23 15:28:36,366 INFO 31963 [egg-watcher:application] watcher start success
+2019-07-23 15:28:36,377 INFO 31963 [egg:core] dump config after ready, 4ms
+2019-07-23 15:28:45,303 INFO 31964 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:28:45,339 INFO 31964 [egg-multipart] stream mode enable
+2019-07-23 15:28:45,339 INFO 31964 [egg-mysql] connecting root@127.0.0.1:3306/blog-web
+2019-07-23 15:28:45,440 INFO 31964 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:28:45,443 INFO 31964 [egg-security] use csrf middleware
+2019-07-23 15:28:45,449 INFO 31964 [egg-security] use methodnoallow middleware
+2019-07-23 15:28:45,449 INFO 31964 [egg-security] use noopen middleware
+2019-07-23 15:28:45,450 INFO 31964 [egg-security] use nosniff middleware
+2019-07-23 15:28:45,450 INFO 31964 [egg-security] use xssProtection middleware
+2019-07-23 15:28:45,451 INFO 31964 [egg-security] use xframe middleware
+2019-07-23 15:28:45,453 INFO 31964 [egg-security] use dta middleware
+2019-07-23 15:28:45,453 INFO 31964 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:28:45,465 INFO 31964 [egg:core] dump config after load, 7ms
+2019-07-23 15:28:45,490 INFO 31964 [egg-watcher:application] watcher start success
+2019-07-23 15:28:45,503 INFO 31964 [egg:core] dump config after ready, 5ms
+2019-07-23 15:29:41,663 INFO 31975 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:29:41,697 INFO 31975 [egg-multipart] stream mode enable
+2019-07-23 15:29:41,698 INFO 31975 [egg-mysql] connecting root@127.0.0.1:3306/blogWeb
+2019-07-23 15:29:41,844 INFO 31975 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:29:41,847 INFO 31975 [egg-security] use csrf middleware
+2019-07-23 15:29:41,849 INFO 31975 [egg-security] use methodnoallow middleware
+2019-07-23 15:29:41,849 INFO 31975 [egg-security] use noopen middleware
+2019-07-23 15:29:41,850 INFO 31975 [egg-security] use nosniff middleware
+2019-07-23 15:29:41,851 INFO 31975 [egg-security] use xssProtection middleware
+2019-07-23 15:29:41,852 INFO 31975 [egg-security] use xframe middleware
+2019-07-23 15:29:41,853 INFO 31975 [egg-security] use dta middleware
+2019-07-23 15:29:41,853 INFO 31975 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:29:41,864 INFO 31975 [egg:core] dump config after load, 6ms
+2019-07-23 15:29:41,886 INFO 31975 [egg-watcher:application] watcher start success
+2019-07-23 15:29:41,893 INFO 31975 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jul 23 2019 15:29:41 GMT+0800 (CST)
+2019-07-23 15:29:41,900 INFO 31975 [egg:core] dump config after ready, 5ms
+2019-07-23 15:29:43,015 INFO 31976 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:29:43,047 INFO 31976 [egg-multipart] stream mode enable
+2019-07-23 15:29:43,048 INFO 31976 [egg-mysql] connecting root@127.0.0.1:3306/blogWeb
+2019-07-23 15:29:43,149 INFO 31976 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:29:43,155 INFO 31976 [egg-security] use csrf middleware
+2019-07-23 15:29:43,156 INFO 31976 [egg-security] use methodnoallow middleware
+2019-07-23 15:29:43,156 INFO 31976 [egg-security] use noopen middleware
+2019-07-23 15:29:43,156 INFO 31976 [egg-security] use nosniff middleware
+2019-07-23 15:29:43,157 INFO 31976 [egg-security] use xssProtection middleware
+2019-07-23 15:29:43,157 INFO 31976 [egg-security] use xframe middleware
+2019-07-23 15:29:43,157 INFO 31976 [egg-security] use dta middleware
+2019-07-23 15:29:43,157 INFO 31976 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:29:43,167 INFO 31976 [egg:core] dump config after load, 6ms
+2019-07-23 15:29:43,187 INFO 31976 [egg-watcher:application] watcher start success
+2019-07-23 15:29:43,191 INFO 31976 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jul 23 2019 15:29:43 GMT+0800 (CST)
+2019-07-23 15:29:43,197 INFO 31976 [egg:core] dump config after ready, 4ms
+2019-07-23 15:29:45,189 INFO 31977 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:29:45,224 INFO 31977 [egg-multipart] stream mode enable
+2019-07-23 15:29:45,225 INFO 31977 [egg-mysql] connecting root@127.0.0.1:3306/blogWeb
+2019-07-23 15:29:45,321 INFO 31977 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:29:45,324 INFO 31977 [egg-security] use csrf middleware
+2019-07-23 15:29:45,325 INFO 31977 [egg-security] use methodnoallow middleware
+2019-07-23 15:29:45,325 INFO 31977 [egg-security] use noopen middleware
+2019-07-23 15:29:45,326 INFO 31977 [egg-security] use nosniff middleware
+2019-07-23 15:29:45,326 INFO 31977 [egg-security] use xssProtection middleware
+2019-07-23 15:29:45,327 INFO 31977 [egg-security] use xframe middleware
+2019-07-23 15:29:45,327 INFO 31977 [egg-security] use dta middleware
+2019-07-23 15:29:45,328 INFO 31977 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:29:45,338 INFO 31977 [egg:core] dump config after load, 6ms
+2019-07-23 15:29:45,360 INFO 31977 [egg-watcher:application] watcher start success
+2019-07-23 15:29:45,361 INFO 31977 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jul 23 2019 15:29:45 GMT+0800 (CST)
+2019-07-23 15:29:45,369 INFO 31977 [egg:core] dump config after ready, 5ms
+2019-07-23 15:29:46,656 INFO 31979 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:29:46,698 INFO 31979 [egg-multipart] stream mode enable
+2019-07-23 15:29:46,699 INFO 31979 [egg-mysql] connecting root@127.0.0.1:3306/blogWeb
+2019-07-23 15:29:46,833 INFO 31979 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:29:46,837 INFO 31979 [egg-security] use csrf middleware
+2019-07-23 15:29:46,848 INFO 31979 [egg-security] use methodnoallow middleware
+2019-07-23 15:29:46,849 INFO 31979 [egg-security] use noopen middleware
+2019-07-23 15:29:46,856 INFO 31979 [egg-security] use nosniff middleware
+2019-07-23 15:29:46,857 INFO 31979 [egg-security] use xssProtection middleware
+2019-07-23 15:29:46,858 INFO 31979 [egg-security] use xframe middleware
+2019-07-23 15:29:46,858 INFO 31979 [egg-security] use dta middleware
+2019-07-23 15:29:46,858 INFO 31979 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:29:46,871 INFO 31979 [egg:core] dump config after load, 7ms
+2019-07-23 15:29:46,900 INFO 31979 [egg-watcher:application] watcher start success
+2019-07-23 15:29:46,904 INFO 31979 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jul 23 2019 15:29:46 GMT+0800 (CST)
+2019-07-23 15:29:46,912 INFO 31979 [egg:core] dump config after ready, 5ms
+2019-07-23 15:40:34,828 INFO 32121 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-23 15:40:34,898 INFO 32121 [egg-multipart] stream mode enable
+2019-07-23 15:40:34,900 INFO 32121 [egg-mysql] connecting root@127.0.0.1:3306/blogWeb
+2019-07-23 15:40:35,122 INFO 32121 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/blog-web/app/public
+2019-07-23 15:40:35,130 INFO 32121 [egg-security] use csrf middleware
+2019-07-23 15:40:35,131 INFO 32121 [egg-security] use methodnoallow middleware
+2019-07-23 15:40:35,132 INFO 32121 [egg-security] use noopen middleware
+2019-07-23 15:40:35,133 INFO 32121 [egg-security] use nosniff middleware
+2019-07-23 15:40:35,134 INFO 32121 [egg-security] use xssProtection middleware
+2019-07-23 15:40:35,135 INFO 32121 [egg-security] use xframe middleware
+2019-07-23 15:40:35,136 INFO 32121 [egg-security] use dta middleware
+2019-07-23 15:40:35,136 INFO 32121 [egg-security] compose 7 middlewares into one security middleware
+2019-07-23 15:40:35,149 INFO 32121 [egg:core] dump config after load, 7ms
+2019-07-23 15:40:35,176 INFO 32121 [egg-watcher:application] watcher start success
+2019-07-23 15:40:35,184 INFO 32121 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jul 23 2019 15:40:35 GMT+0800 (CST)
+2019-07-23 15:40:35,196 INFO 32121 [egg:core] dump config after ready, 9ms
+2019-07-23 19:29:58,785 WARN 32121 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-23 20:35:46,101 WARN 32121 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-23 23:57:28,389 WARN 32121 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-24 09:51:36,979 WARN 32121 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-07-24 09:51:36,980 WARN 32121 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-24 10:00:00,233 WARN 32121 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-07-24 10:00:00,233 WARN 32121 [ClusterClient:Watcher] follower closed, and try to init it again

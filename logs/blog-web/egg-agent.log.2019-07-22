@@ -1,0 +1,110 @@
+2019-07-22 14:31:42,252 INFO 21880 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/blog-web/logs/blog-web","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-web-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-07-22 14:31:42,263 INFO 21880 [egg:core] dump config after load, 4ms
+2019-07-22 14:31:42,310 INFO 21880 [egg-watcher] Start watching: ["/Users/mac/Desktop/blog-web/app","/Users/mac/Desktop/blog-web/config","/Users/mac/Desktop/blog-web/mocks","/Users/mac/Desktop/blog-web/mocks_proxy","/Users/mac/Desktop/blog-web/app.js"]
+2019-07-22 14:31:42,310 INFO 21880 [egg-watcher] Start watching: "/Users/mac/Desktop/blog-web/app"
+2019-07-22 14:31:42,311 INFO 21880 [egg-watcher] Start watching: "/Users/mac/Desktop/blog-web/config"
+2019-07-22 14:31:42,311 INFO 21880 [egg-watcher] Start watching: "/Users/mac/Desktop/blog-web/mocks"
+2019-07-22 14:31:42,311 INFO 21880 [egg-watcher] Start watching: "/Users/mac/Desktop/blog-web/mocks_proxy"
+2019-07-22 14:31:42,311 INFO 21880 [egg-watcher] Start watching: "/Users/mac/Desktop/blog-web/app.js"
+2019-07-22 14:31:42,311 INFO 21880 [egg-watcher:agent] watcher start success
+2019-07-22 14:31:42,320 INFO 21880 [egg:core] dump config after ready, 3ms
+2019-07-22 14:31:43,460 INFO 21880 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/mac/Desktop/blog-web/app/public","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":11947589,"size":64,"blocks":0,"atimeMs":1563777103448.4224,"mtimeMs":1563777103448.4224,"ctimeMs":1563777103448.4224,"birthtimeMs":1563777103448.4224,"atime":"2019-07-22T06:31:43.448Z","mtime":"2019-07-22T06:31:43.448Z","ctime":"2019-07-22T06:31:43.448Z","birthtime":"2019-07-22T06:31:43.448Z"},"remove":false,"isDirectory":true,"isFile":false}
+2019-07-22 15:47:54,435 ERROR 21880 nodejs.ClusterClientNoResponseError: client no response in 1170442ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/mac/Desktop/blog-web/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 21880
+hostname: MacBook-Pro-3.local
+
+2019-07-22 20:32:06,050 ERROR 21880 nodejs.ClusterClientNoResponseError: client no response in 1908884ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/mac/Desktop/blog-web/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 21880
+hostname: MacBook-Pro-3.local
+
+2019-07-22 21:50:34,491 ERROR 21880 nodejs.ClusterClientNoResponseError: client no response in 4668536ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/mac/Desktop/blog-web/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 21880
+hostname: MacBook-Pro-3.local
+
+2019-07-23 00:37:51,259 ERROR 21880 nodejs.ClusterClientNoResponseError: client no response in 7216520ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/mac/Desktop/blog-web/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 21880
+hostname: MacBook-Pro-3.local
+
+2019-07-23 02:38:27,682 ERROR 21880 nodejs.ClusterClientNoResponseError: client no response in 7216419ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/mac/Desktop/blog-web/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 21880
+hostname: MacBook-Pro-3.local
+
+2019-07-23 04:39:23,225 ERROR 21880 nodejs.ClusterClientNoResponseError: client no response in 7215499ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/mac/Desktop/blog-web/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 21880
+hostname: MacBook-Pro-3.local
+
+2019-07-23 06:39:58,657 ERROR 21880 nodejs.ClusterClientNoResponseError: client no response in 7215434ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/mac/Desktop/blog-web/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 21880
+hostname: MacBook-Pro-3.local
+
+2019-07-23 08:40:54,072 ERROR 21880 nodejs.ClusterClientNoResponseError: client no response in 7215403ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/mac/Desktop/blog-web/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 21880
+hostname: MacBook-Pro-3.local
+
+2019-07-23 09:45:09,358 ERROR 21880 nodejs.ClusterClientNoResponseError: client no response in 3835280ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/mac/Desktop/blog-web/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 21880
+hostname: MacBook-Pro-3.local
+
+2019-07-23 12:38:46,502 ERROR 21880 nodejs.ClusterClientNoResponseError: client no response in 1755367ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/mac/Desktop/blog-web/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 21880
+hostname: MacBook-Pro-3.local
+
+2019-07-23 13:37:12,414 ERROR 21880 nodejs.ClusterClientNoResponseError: client no response in 1905610ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/mac/Desktop/blog-web/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 21880
+hostname: MacBook-Pro-3.local
+

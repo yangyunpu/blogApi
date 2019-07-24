@@ -1,0 +1,12 @@
+2019-07-22 14:31:43,493 INFO 21880 [Timer] /Users/mac/Desktop/blog-web/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 50296510ms at 2019-07-23 04:30:00.003
+2019-07-22 14:31:43,493 INFO 21880 [Timer] /Users/mac/Desktop/blog-web/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 34096507ms at 2019-07-23 00:00:00.000
+2019-07-22 14:31:43,494 INFO 21880 [Timer] /Users/mac/Desktop/blog-web/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 34097507ms at 2019-07-23 00:00:01.001
+2019-07-22 14:31:43,381 INFO 21881 [egg-schedule]: register schedule /Users/mac/Desktop/blog-web/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-07-22 14:31:43,381 INFO 21881 [egg-schedule]: register schedule /Users/mac/Desktop/blog-web/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-07-22 14:31:43,381 INFO 21881 [egg-schedule]: register schedule /Users/mac/Desktop/blog-web/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-07-23 14:57:26,460 INFO 21880 [Timer] /Users/mac/Desktop/blog-web/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 32553564ms at 2019-07-24 00:00:00.023
+2019-07-23 14:57:26,535 INFO 21881 [Job#15638650464031322732190530711] /Users/mac/Desktop/blog-web/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2019-07-23 14:57:26,612 INFO 21881 [Job#15638650464031322732190530711] /Users/mac/Desktop/blog-web/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 49ms
+2019-07-23 14:57:27,364 INFO 21881 [Job#15638650473631322741643307681] /Users/mac/Desktop/blog-web/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2019-07-23 14:57:27,380 INFO 21881 [Job#15638650473631322741643307681] /Users/mac/Desktop/blog-web/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 15ms
+2019-07-23 14:57:27,367 INFO 21880 [Timer] /Users/mac/Desktop/blog-web/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32553637ms at 2019-07-24 00:00:01.004
